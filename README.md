@@ -2,7 +2,7 @@
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
 
-> T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, and S. Dev, Embedding Cyclical Information in Solar Irradiance Forecasting, *under review*.
+> T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, and S. Dev, Embedding Cyclical Information in Solar Irradiance Forecasting, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021.
 
 ### Executive summary
 In this paper, we demonstrate the importance of embedding temporal information for an accurate prediction of solar irradiance.
