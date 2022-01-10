@@ -1,16 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 24 16:45:14 2020
-
-@author: vasu
-"""
-
-'''
-Created on 24-Feb-2020
-
-@author: toto
-'''
 
 import pandas as pd
 from sklearn import linear_model
